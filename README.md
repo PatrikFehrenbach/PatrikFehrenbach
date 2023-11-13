@@ -13,7 +13,7 @@ Bug Bounty Blueprint is your go-to repository for bug bounty reporting templates
 ### [Vilicus](https://github.com/PatrikFehrenbach/vilicus)
 Derived from the Latin term for 'overseer' or 'supervisor', Vilicus is a cutting-edge Bug Bounty API Dashboard that streamlines the bug bounty hunting process. This platform is meticulously crafted to aggregate data from multiple sources, providing a comprehensive and user-friendly dashboard. With Vilicus, bug bounty hunters can monitor, manage, and optimize their hunts, while program managers can oversee submissions with unprecedented clarity and efficiency. It's an essential tool for anyone serious about maximizing their impact in the bug bounty ecosystem.
 
-### [Burpsuite JS Extractor](https://github.com/PatrikFehrenbach/burpsuite-js-extractor))
+### [Burpsuite JS Extractor](https://github.com/PatrikFehrenbach/burpsuite-js-extractor)
 
 A simple extension that allows to copy Javascript URLs from Burpsuite's Site map 
 
