@@ -1,6 +1,6 @@
 # Patrik Fehrenbach's GitHub Profile
 
-Welcome to my GitHub space! I'm Patrik Fehrenbach, a passionate advocate for cybersecurity, and an enthusiast in the realm of bug bounty hunting. My repositories reflect my dedication to providing resources and tools for both aspiring and seasoned bug bounty hunters.
+Welcome to my GitHub space! I'm Patrik Fehrenbach, a passionate advocate for cybersecurity, and an enthusiast in the realm of bug bounty hunting. My repositories are meant to providing resources and tools for both aspiring and seasoned bug bounty hunters.
 
 ## Repositories
 
